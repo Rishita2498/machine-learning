@@ -1,0 +1,18 @@
+ABSTRACT:
+Human life is really tough to imagine without data as data is present at every mode of human life.
+“Data is oxygen for today’s booming technology”
+"About 75% of data is unstructured, coming from sources such as text, voice and video," 
+Humans are  super talented creatures create by almighty. our lifes can be made more comfortable if we provide our intelligence to machines(ai)
+. machine learning is the latest technology that is ruling the world. it is the phenomenon of provide mchines the power to analyse the data and make predictions like humans do.
+machines are explicitly programmed to do such tasks.
+
+
+Our project deals with classify the type of glass based on the chemical composition of the materials used in glass.
+By predicting the category of the glass , we can deal with many situations like:
+-> manufacturing good quality  of windows for automobiles
+->making glasses resistant to damage by changing its composition
+->avoid damage of windows to automobiles during accidents
+->industrial usage of glass with reasonable cost 
+
+
+
